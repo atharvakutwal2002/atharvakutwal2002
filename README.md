@@ -6,7 +6,8 @@
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web development and tech .
 - 📫 How to reach me: 
-[Click here to visit my Linkedin 👈](www.linkedin.com/in/atharva-kutwal-588a8a219%60%5Benter%20link%20description%20here%5D%28www.linkedin.com/in/atharva-kutwal-588a8a219%29%60)
+  [Click here to visit my Linkedin 👈](www.linkedin.com/in/atharva-kutwal-588a8a219)
+
 - 😄 Pronouns: He/his
 
 

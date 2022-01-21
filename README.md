@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React .**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Web development Projects**
 
 
 

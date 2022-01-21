@@ -62,7 +62,7 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/atharva-kutwal-588a8a219/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/AtharvaKalyan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>

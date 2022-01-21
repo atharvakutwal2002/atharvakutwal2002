@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently studying iin DYPCOE Akurdi
 - 🌱 I’m currently learning React .
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+
 - 💬 Ask me about Web development and tech .
 - 📫 How to reach me: 
   [Click here to visit my Linkedin 👈](www.linkedin.com/in/atharva-kutwal-588a8a219)

@@ -1,5 +1,5 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<a href="#"><img width="50%" height="auto" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/156325783/original/e90a54f5c4385d428fb575b8b541542d79c9f606/develop-your-mern-stack-web-application.jpg" height="175px"/></a>
+<a href="#"><img width="50%" padding-left="25%" height="auto" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/156325783/original/e90a54f5c4385d428fb575b8b541542d79c9f606/develop-your-mern-stack-web-application.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atharva </h1>
 <h3 align="center">I'm a passionate Full Stack Development Enthusiast from India.</h3>

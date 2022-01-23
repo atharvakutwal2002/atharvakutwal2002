@@ -1,6 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>--> 
 <!--<a href="#"><img width="100%"  height="auto" src="https://mechomotive.com/wp-content/uploads/2021/08/Artificial-Intelligence-5.jpg" height="175px"/></a>-->
-https://wallpapercave.com/wp/wp6784380.jpg
+<a href="#"><img width="100%"  height="auto" src="https://wallpapercave.com/wp/wp6784380.jpg" height="175px"/></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atharva </h1>
 <h3 align="center">I'm a passionate Full Stack Development Enthusiast from India.</h3>
 

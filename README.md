@@ -20,6 +20,11 @@
 
 - ⚡ Fun fact **I love watching web series and hitting the GYM very often.**
 
+
+##                   Fun Section 😁
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
@@ -36,6 +41,11 @@
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/></a> 
     
 </p>
+
+
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakutwal2002&theme=blue-green)
+
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
@@ -80,16 +90,8 @@
 <a href="https://github.com/atharvakutwal2002?tab=followers"><img src="https://img.shields.io/github/followers/atharvakutwal2002?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-<!-- # Top 5 Badges That Will Take Your GitHub Repository to the Next Level -->
-## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=atharvakutwal2002&show_icons=true)
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakutwal2002&theme=blue-green)
-## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=atharvakutwal2002/Python)
-##  Joke 😁
-![Jokes Card](https://readme-jokes.vercel.app/api)
-## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=atharvakutwal2002)
-<!-- ### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python) -->
+
+
+
+
+

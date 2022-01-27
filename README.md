@@ -3,7 +3,7 @@
 <a href="#"><img width="100%"  height="auto" src="https://wallpapercave.com/wp/wp6784380.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atharva </h1>
-<h3 align="center">I'm a passionate Full Stack Development Enthusiast from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Web Development Enthusiast and Competitive Programmer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **React .**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
-
+- ⚡ I'm also a **5 ⭐ Coder on hackerrank **
 
 
 - 📫 How to reach me **atharvakutwal2002@gmail.com**

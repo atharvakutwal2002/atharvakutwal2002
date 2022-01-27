@@ -13,7 +13,8 @@
 - 🌱 I’m currently learning **React .**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
-- ⚡ I'm also a **5 ⭐ Coder on hackerrank **
+- ⚡ I'm also a **5 ⭐ Coder on hackerrank .**
+
 
 
 - 📫 How to reach me **atharvakutwal2002@gmail.com**

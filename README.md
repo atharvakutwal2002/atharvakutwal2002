@@ -87,23 +87,24 @@
 ## ⚡ Most Used Languages ⚡
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakutwal2002&theme=blue-black) 
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=atharvakutwal2002">
-</a>
-<a href="https://github.com/atharvakutwal2002?tab=followers"><img src="https://img.shields.io/github/followers/atharvakutwal2002?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
+![snake gif](https://github.com/atharvakutwal2002/atharvakutwal2002/blob/output/github-contribution-grid-snake.gif)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atharvakutwal2002)  
+
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atharvakutwal2002)   -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=atharvakutwal2002)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub metrics](https://metrics.lecoq.io/atharvakutwal2002)  
 
 
-
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=atharvakutwal2002">
+</a>
+<a href="https://github.com/atharvakutwal2002?tab=followers"><img src="https://img.shields.io/github/followers/atharvakutwal2002?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 

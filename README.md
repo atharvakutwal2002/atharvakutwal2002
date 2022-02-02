@@ -93,19 +93,7 @@
 </a>
 <a href="https://github.com/atharvakutwal2002?tab=followers"><img src="https://img.shields.io/github/followers/atharvakutwal2002?label=Followers&style=social" alt="GitHub Badge"></a>
 
-- uses: Platane/snk@master
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
 
-    # path of the generated gif file
-    # If left empty, the gif file will not be generated
-    gif_out_path: dist/github-snake.gif
-
-    # path of the generated svg file
-    # If left empty, the svg file will not be generated
-    svg_out_path: dist/github-snake.svg
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atharvakutwal2002)  

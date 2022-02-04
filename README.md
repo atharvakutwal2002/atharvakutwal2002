@@ -1,33 +1,48 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>--> 
-<!--<a href="#"><img width="100%"  height="auto" src="https://mechomotive.com/wp-content/uploads/2021/08/Artificial-Intelligence-5.jpg" height="175px"/></a>-->
+<!-- <h1>Hi there, I'm <a target="_blank" href="https://nishant-bhosale.netlify.app/">Atharva Kutwal</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
+<h1>I am a Web Developer📱📱</h1> -->
 <a href="#"><img width="100%"  height="auto" src="https://wallpapercave.com/wp/wp6784380.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atharva </h1>
 <h3 align="center">I'm a passionate Full Stack Web Development Enthusiast and Competitive Programmer from India.</h3>
 
+---
 
-## 🙋‍♂️ About Me
+|<img src="https://github-readme-stats.vercel.app/api?username=atharvakutwal2002&show_icons=true&theme=cobalt"></img> |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=atharvakutwal2002"/>|
+|---|---|
+ 
+ ---
+ 
+- 👨‍🎓Hey there, I am Atharva Kutwal , currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.<br/>
+- 💻I am an **Web developer** as well as **Competitive Programmer** <br/>
+- My Primary Coding language is **C++**.<br/>
+- 5⭐ coder on **Hackerrank**<br/>
 
-
-
-- 🌱 I’m currently learning **React .**
-
-- 👯 I’m looking to collaborate on **Web development Projects**
-- ⚡ I'm also a **5 ⭐ Coder on hackerrank .**
-
-
-
-- 📫 How to reach me **atharvakutwal2002@gmail.com**
-
-- ⚡ Fun fact **I love watching web series and hitting the GYM very often.**
-
-
-##                   Fun Section 😁
-![Jokes Card](https://readme-jokes.vercel.app/api)
+- I love❤️ to make **exciting projects**.<br/>
+- I really enjoy learning🚀 new frameworks like **React**.<br/>
+-  **I love watching web series and hitting the GYM very often.**
 
 
-## 🚀 Languages and Tools:
 
+<!-- <h1>Technical Skills 🛠</h1>
+
+<p align="center"> 
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffdd00?style=for-the-badge&logo=firebase&logoColor=orange" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-ffca28?style=for-the-badge&logo= bootstrap&logoColor=black" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+</p> -->
+##                                🚀 Languages and Tools:
+<br>
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -40,74 +55,58 @@
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/></a> 
-    
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+  <br>   
 </p>
 
 
 
-
-
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/athavakutwal2002/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvakutwal2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/atharvakutwal2002/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=atharvakutwal2002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/atharvakutwal2002/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakutwal2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/atharvakutwal2002/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atharvakutwal2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="center">
-
-<a href = "https://www.linkedin.com/in/atharva-kutwal-588a8a219/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AtharvaKalyan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/atharvakutwal2002/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
-</p>
-
-## ⚡ Most Used Languages ⚡
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakutwal2002&theme=blue-black) 
-
-
-
-
-![snake gif](https://github.com/atharvakutwal2002/atharvakutwal2002/blob/output/github-contribution-grid-snake.gif)
-
-
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atharvakutwal2002)   -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=atharvakutwal2002)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub metrics](https://metrics.lecoq.io/atharvakutwal2002)  
-
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=atharvakutwal2002">
+## 🤝 Connect with me  
+<div align="center">
+ <a href=https://www.linkedin.com/in/atharva-kutwal-588a8a219/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/atharvakutwal2002?tab=followers"><img src="https://img.shields.io/github/followers/atharvakutwal2002?label=Followers&style=social" alt="GitHub Badge"></a>
 
+<a href="https://github.com/atharvakutwal2002" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
+<a href="https://www.instagram.com/atharvakutwal2002/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div>
 
+### Recent Projects 👨‍💻
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvakutwal2002&repo=Expense-Tracker&show_icons=true&theme=monokai"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvakutwal2002&repo=Food-Order-App&show_icons=true&theme=monokai"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvakutwal2002&repo=To-Do-List&show_icons=true&theme=great-gatsby"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvakutwal2002&repo=Tech-Plus-Web-Page-&show_icons=true&theme=great-gatsby">                                                                                                                                          
+</div>
 
+<div align="center">
+ 
+ <a href="https://github.com/atharvakutwal2002/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakutwal2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+ <a href="https://github.com/atharvakutwal2002/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atharvakutwal2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+                                                                                                      
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+ ##                   Fun Section 😁
+![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=atharvakutwal2002)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub metrics](https://metrics.lecoq.io/atharvakutwal2002)                                                                                           
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/github/followers/atharvakutwal2002.svg?style=social&label=Follow"></img>
+
+<img src="https://gpvc.arturio.dev/atharvakutwal2002"></img>
+</div>
+
+---
+
+Leave a ⭐ from [here](https://github.com/atharvakutwal2002/atharvakutwal2002) if you like 😁

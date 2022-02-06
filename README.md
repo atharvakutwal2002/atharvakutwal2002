@@ -93,7 +93,7 @@
  <a href="https://github.com/atharvakutwal2002/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atharvakutwal2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
                                                                                                       
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
- ##                    😁
+ ##                   lets have some humour 😁
 ![Jokes Card](https://readme-jokes.vercel.app/api)
   
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=atharvakutwal2002)](https://github.com/ryo-ma/github-profile-trophy)

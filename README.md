@@ -4,7 +4,7 @@
 <a href="#"><img   height="20%" src="https://github.com/atharvakutwal2002/atharvakutwal2002/blob/main/banner.png" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atharva </h1>
-<h3 align="center">I'm a passionate Full Stack Web Development Enthusiast and Competitive Programmer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Web Development Enthusiast and Competitive Programmer .</h3>
 
 ---
 
@@ -15,11 +15,11 @@
  
 - 👨‍🎓Hey there, I am Atharva Kutwal , currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.<br/>
 - 💻I am an **Web developer** as well as **Competitive Programmer** <br/>
-- My Primary Coding language is **C++**.<br/>
+<!-- - My Primary Coding language is **C++**.<br/> -->
 - 5⭐ coder on **Hackerrank**<br/>
 
 - I love❤️ to make **exciting projects**.<br/>
-- I really enjoy learning🚀 new frameworks like **React**.<br/>
+- I really enjoy learning 🚀 new frameworks like **React**.<br/>
 -  **I love watching web series and hitting the GYM very often.**
 
 

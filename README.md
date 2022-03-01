@@ -14,7 +14,7 @@
  ---
  
 - 👨‍🎓Hey there, I am Atharva Kutwal , currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.<br/>
-- 💻I am an **Web developer** as well as **Competitive Programmer** <br/>
+- 💻I am an **Web developer** as well as a **Competitive Programmer** <br/>
 <!-- - My Primary Coding language is **C++**.<br/> -->
 - 5⭐ coder on **Hackerrank**<br/>
 

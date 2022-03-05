@@ -4,7 +4,7 @@
 <a href="#"><img   height="20%" src="https://github.com/atharvakutwal2002/atharvakutwal2002/blob/main/banner.png" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atharva </h1>
-<h3 align="center">I'm a passionate Full Stack Web Development Enthusiast and a Competitive Programmer .</h3>
+<h3 align="center">I'm a passionate Full Stack Web Development Enthusiast and  Competitive Programmer .</h3>
 
 ---
 
@@ -19,7 +19,7 @@
 - 5⭐ coder on **Hackerrank**<br/>
 
 - I love❤️ to make **exciting projects**.<br/>
-- I really enjoy learning 🚀 new frameworks like **React**.<br/>
+- I really enjoy learning 🚀 new frameworks like⚡ **React**.<br/>
 -  **I love watching web series and hitting  GYM very often.**
 
 

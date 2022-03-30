@@ -20,7 +20,7 @@
 
 - I love❤️ to make **exciting projects**.<br/>
 - I really enjoy learning 🚀 new frameworks like⚡ **React**.<br/>
--  **I love watching web series and hitting  GYM very often.**
+-  **I love watching web series and hitting the GYM very often.**
 
 
 

@@ -82,7 +82,7 @@
 ### Recent Projects 👨‍💻
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvakutwal2002&repo=Expense-Tracker&show_icons=true&theme=monokai"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvakutwal2002&repo=My-Expense-Tracker&show_icons=true&theme=monokai"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvakutwal2002&repo=Food-Order-App&show_icons=true&theme=monokai"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvakutwal2002&repo=To-Do-List&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvakutwal2002&repo=Tech-Plus-Web-Page-&show_icons=true&theme=great-gatsby">                                                                                                                                          

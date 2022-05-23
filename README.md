@@ -4,7 +4,7 @@
 <a href="#"><img   height="20%" src="https://github.com/atharvakutwal2002/atharvakutwal2002/blob/main/banner.png" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atharva </h1>
-<h3 align="center">I'm a passionate Full Stack Web Development Enthusiast and a Competitive Programmer .</h3>
+<h3 align="center">I'm a passionate Full Stack Web Development Enthusiast and  Competitive Programmer .</h3>
 
 ---
 
@@ -100,18 +100,4 @@
   
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=atharvakutwal2002)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/atharvakutwal2002)                                                                                            -->
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/github/followers/atharvakutwal2002.svg?style=social&label=Follow"></img>
-
-<img src="https://gpvc.arturio.dev/atharvakutwal2002"></img>
-                                                     
-                                                 
-                                                     
-</div>
-
----
-
-Leave a ⭐ from [here](https://github.com/atharvakutwal2002/atharvakutwal2002) if you like 😁
+![GitHub metrics](https://metrics.lecoq.io/atharvakutwal2002)                                                                                            

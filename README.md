@@ -59,6 +59,10 @@
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/></a> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+      <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+       <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express.png"/></a>
+        <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
   <br>   
 </p>
 
